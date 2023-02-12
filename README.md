@@ -1,4 +1,4 @@
-### Hi there 👋 I am Elias, a student in my final year of high school from Greece.
+### Hi there 👋, I am Elias, a student in my final year of high school from Greece.
 
 - 🔭 Interested and experienced in robotics and amateur radio.
 - 🌱 Currently experimenting with self-hosting and general coding projects.
