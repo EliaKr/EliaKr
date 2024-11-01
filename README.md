@@ -1,4 +1,4 @@
-### Hi there 👋, I am Elias, an Electrical and Computer Engineering student from Greece.
+### Hi there 👋, I am Ιlias, an Electrical and Computer Engineering student from Greece.
 
 - 🔭 Interested and experienced in robotics and amateur radio.
 - 📫 Reach out [here](mailto:ilkringos@gmail.com).
